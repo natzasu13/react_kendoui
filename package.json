@@ -1,0 +1,67 @@
+{
+  "name": "jlwxtf.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-barcodes-react-wrapper": "2019.4.1014",
+    "@progress/kendo-buttons-react-wrapper": "2019.4.1014",
+    "@progress/kendo-data-query": "1.5.2",
+    "@progress/kendo-date-math": "1.5.0",
+    "@progress/kendo-dateinputs-react-wrapper": "2019.4.1014",
+    "@progress/kendo-drawing": "1.6.0",
+    "@progress/kendo-dropdowns-react-wrapper": "2019.4.1014",
+    "@progress/kendo-editor-react-wrapper": "2019.4.1014",
+    "@progress/kendo-file-saver": "1.0.7",
+    "@progress/kendo-gantt-react-wrapper": "2019.4.1014",
+    "@progress/kendo-gauges-react-wrapper": "2019.4.1014",
+    "@progress/kendo-grid-react-wrapper": "2019.4.1014",
+    "@progress/kendo-inputs-react-wrapper": "2019.4.1014",
+    "@progress/kendo-layout-react-wrapper": "2019.4.1014",
+    "@progress/kendo-pivotgrid-react-wrapper": "2019.4.1014",
+    "@progress/kendo-popups-react-wrapper": "2019.4.1014",
+    "@progress/kendo-react-animation": "^3.7.0",
+    "@progress/kendo-react-dateinputs": "^3.7.0",
+    "@progress/kendo-react-dropdowns": "^3.7.0",
+    "@progress/kendo-react-grid": "^3.7.0",
+    "@progress/kendo-react-inputs": "^3.7.0",
+    "@progress/kendo-react-intl": "^3.7.0",
+    "@progress/kendo-scheduler-react-wrapper": "2019.4.1014",
+    "@progress/kendo-spreadsheet-react-wrapper": "2019.4.1014",
+    "@progress/kendo-treelist-react-wrapper": "2019.4.1014",
+    "@progress/kendo-treeview-react-wrapper": "2019.4.1014",
+    "@progress/kendo-ui": "2019.3.1114",
+    "@progress/kendo-upload-react-wrapper": "2019.4.1014",
+    "@progress/kendo-validator-react-wrapper": "2019.4.1014",
+    "hammerjs": "2.0.8",
+    "jquery": "3.4.1",
+    "object-assign": "4.1.1",
+    "prop-types": "15.7.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-redux": "5.0.6",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.2.2",
+    "redux": "3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
